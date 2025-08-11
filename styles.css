@@ -7,10 +7,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(98, 0, 255); /* cor da borda detalhe */
+    border-bottom: solid 2px rgb(125, 131, 193);; /* cor da borda detalhe */
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 255, 255);
+    color: rgb(125, 131, 193);
 }
 
 .chamada {
@@ -26,11 +26,11 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .categoria-videos {
@@ -52,10 +52,10 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(98, 0, 255);
+    border: 3px solid rgb(125, 131, 193);
 }
 
 .categoria h2 {
-    color: rgb(255, 255, 255);
+    color: rgb(235, 170, 235);
     font-size: 30px;
 }
