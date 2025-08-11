@@ -11,6 +11,10 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(85, 89, 135);
+    <div class="logo-container">
+            <img src="logo.png" alt="Logo" class="logo">
+            <h1 class="nome-site">Sustentech</h1>
+        </div>
 }
 
 .chamada {
