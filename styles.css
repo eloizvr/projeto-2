@@ -7,11 +7,10 @@ body {
 }
 
 .header {
-    border-bottom: solid 2px rgb(125, 131, 193);; /* cor da borda detalhe */
+    border-bottom: solid 2px rgb(125, 131, 193); /* cor da borda detalhe */
     padding: 20px;
     font-size: 32px;
     color: rgb(85, 89, 135);
-    
 }
 
 .chamada {
