@@ -6,7 +6,7 @@ body {
     margin-bottom: 100px;
 }
 
-.header {
+header {
     border-bottom: solid 2px rgb(125, 131, 193); /* cor da borda detalhe */
     padding: 20px;
     font-size: 32px;
