@@ -11,16 +11,6 @@ body {
     padding: 20px;
     font-size: 32px;
     color: rgb(85, 89, 135);
-.logo-container {
-    display: flex;
-    align-items: center;
-    gap: 15px; /* espaço entre logo e texto */
-}
-
-.logo {
-    height: 90px; /* ajuste o tamanho conforme necessário */
-    width:auto;
-}
 }
 
 .chamada {
