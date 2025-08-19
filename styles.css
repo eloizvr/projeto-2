@@ -2,7 +2,7 @@ body {
     color: rgb(45, 40, 68);
     background: rgb(235, 168, 235);
     margin: 0px;
-    font-family: "DM Serif Text", sans-serif;
+    font-family: "Bodoni Moda", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -38,7 +38,7 @@ header {
 
 h1 {
     font-size: 30px;
-    font-family: "Bodoni Moda", sans-serif;
+    font-family: "DM Serif Text", sans-serif;
 }
 
 p {
