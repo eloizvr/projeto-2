@@ -24,11 +24,11 @@ header {
 .logo-container {
     display: flex;
     align-items: center;
-    gap: 15px; /* espaço entre logo e texto */
+    gap: 30px; /* espaço entre logo e texto */
 }
 
 .logo {
-    height: 90px; /* ajuste o tamanho conforme necessário */
+    height: 100px; /* ajuste o tamanho conforme necessário */
     width: auto;
 }
 
