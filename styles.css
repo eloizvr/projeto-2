@@ -24,7 +24,7 @@ header {
 .logo-container {
     display: flex;
     align-items: center;
-    gap: 100px; /* espaço entre logo e texto */
+    gap: 80px; /* espaço entre logo e texto */
 }
 
 .logo {
